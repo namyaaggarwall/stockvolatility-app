@@ -1,0 +1,11 @@
+Day,Date,GARCH_Predicted_Vol,GARCH_Category,LSTM_Predicted_Vol,LSTM_Category,Reasoning (based on LSTM)
+1,2021-05-03,0.02022294810563679,High,0.014198336,Low,"Volatility is expected to be LOW, falling from the current level (0.0142). Recent returns have been fairly stable, supporting this forecast."
+2,2021-05-04,0.02095052689441872,High,0.014209281,Low,"Volatility is expected to be LOW, rising from the current level (0.0142). Recent returns have been fairly stable, supporting this forecast."
+3,2021-05-05,0.02159279196264611,High,0.01424376,Low,"Volatility is expected to be LOW, rising from the current level (0.0142). Recent returns have been fairly stable, supporting this forecast."
+4,2021-05-06,0.02216238457147863,High,0.014287069,Low,"Volatility is expected to be LOW, rising from the current level (0.0142). Recent returns have been fairly stable, supporting this forecast."
+5,2021-05-07,0.02266944005939164,High,0.014328741,Low,"Volatility is expected to be LOW, rising from the current level (0.0142). Recent returns have been fairly stable, supporting this forecast."
+6,2021-05-10,0.02312223698544447,High,0.014364909,Low,"Volatility is expected to be LOW, rising from the current level (0.0142). Recent returns have been fairly stable, supporting this forecast."
+7,2021-05-11,0.023527640609952,High,0.014396154,Low,"Volatility is expected to be LOW, rising from the current level (0.0142). Recent returns have been fairly stable, supporting this forecast."
+8,2021-05-12,0.023891416023149637,High,0.014423106,Low,"Volatility is expected to be LOW, rising from the current level (0.0142). Recent returns have been fairly stable, supporting this forecast."
+9,2021-05-13,0.024218455494501336,High,0.014447841,Low,"Volatility is expected to be LOW, rising from the current level (0.0142). Recent returns have been fairly stable, supporting this forecast."
+10,2021-05-14,0.024512947541281336,High,0.014475732,Low,"Volatility is expected to be LOW, rising from the current level (0.0142). Recent returns have been fairly stable, supporting this forecast."
